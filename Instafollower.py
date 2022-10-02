@@ -78,7 +78,7 @@ def get_followers():
 def main():
     win = Tk()
     win.iconbitmap('logo.ico')
-    win.title('Main Window')
+    win.title('Login window')
     win.config(bg='#F9741E')
     win.geometry('200x200')
     win.maxsize(200, 200)
